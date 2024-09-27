@@ -1,3 +1,6 @@
-# chat_analytics_frontend_1
+### chat_analytics_frontend_1
+##### dashboard 
 
-## run with "http://127.0.0.1:3000/"
+#### pnpm install
+#### pnpm dev
+### open with "http://127.0.0.1:3000/"
